@@ -1,4 +1,9 @@
+**This project is still under development, however, feel free to download it and run on your locahost sever to check it out**\
+
+_____________________________________________________________________________________
+
 **This Is A Simple Blog Project**
+
 
 **NO meaningful title text or body text.**
 
